@@ -18,7 +18,31 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+
+![alt text](./Images/image.png)
+
+![alt text](./Images/image-1.png)
+
+![alt text](./Images/image-2.png)
+
+![alt text](./Images/image-3.png)
+
+![alt text](./Images/image-4.png)
+
+![alt text](./Images/image-5.png)
+
+![alt text](./Images/image-6.png)
+
+![alt text](./Images/image-7.png)
+
+![alt text](./Images/image-8.png)
+
+![alt text](./Images/image-9.png)
+
+![alt text](./Images/image-10.png)
+
+Refer : [Google Collab Link](https://colab.research.google.com/drive/1SdSvd_fJSzsrL839DzHq00SSO4TlityE?usp=sharing)
 
 # Result:
- Include your result here
+
+Data Visualization using Seaborn library is implemented and executed successfully.
